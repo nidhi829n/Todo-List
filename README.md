@@ -4,17 +4,17 @@ A simple and responsive To-Do List web application built using HTML and JavaScri
 
 # 🚀 Features
 
-1.Add new tasks
+1. Add new tasks
 
-2.Delete tasks
+2. Delete tasks
 
-3.Tasks are saved in localStorage (no backend required)
+3. Tasks are saved in localStorage (no backend required)
 
 # 🛠️ Technologies Used
 
-1.HTML
+1. HTML
 
-2.JavaScript
+2. JavaScript
 
 # Live Demo
 
