@@ -1,23 +1,40 @@
-# 📝 To-Do List Web App
+# 📝 To‑Do List Web App
 
-A simple and responsive To-Do List web application built using HTML and JavaScript. This app allows users to add and delete tasks, with all tasks stored in the browser using localStorage.
+A clean and minimalistic To-Do List application built using **HTML5** and **JavaScript**. This app lets users manage daily tasks efficiently by adding and deleting them. Tasks are saved locally in the browser using `localStorage`, so your list persists even after refreshing or closing the tab.
 
-# 🚀 Features
+---
 
-1. Add new tasks
+## 🚀 Features
 
-2. Delete tasks
+- ➕ **Add New Tasks** – Quickly add tasks with a simple input field.
+- 🗑️ **Delete Tasks** – Remove completed or unnecessary tasks with a single click.
+- 💾 **Persistent Storage** – Tasks are automatically saved in `localStorage` (no backend needed).
+- 📱 **Responsive Design** – Works seamlessly on both desktop and mobile browsers.
+- ⚡ **Real-Time UI Updates** – Interface updates instantly on task changes.
 
-3. Tasks are saved in localStorage (no backend required)
+---
 
-# 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-1. HTML
+- **HTML5**
+- **CSS3** *(optional styling)*
+- **JavaScript (ES6)**
+- **localStorage API**
 
-2. JavaScript
+---
 
-# Live Demo
+## 📸 Live Demo
 
-https://nidhi829n.github.io/Todo-List/
+🔗 [Try it Now!](https://nidhi829n.github.io/Todo-List/)
+
+---
+
+## 💡 How It Works
+
+1. Type a task in the input field.
+2. Click the **Add** button or press Enter.
+3. Your task is added to the list and saved in local storage.
+4. Click the **Delete (❌)** icon next to a task to remove it.
+
 
 
